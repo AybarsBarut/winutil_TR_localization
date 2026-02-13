@@ -199,7 +199,7 @@ $translations = @{
     # Updates sekmesi - Butonlar ve başlıklar
     'Content="Default Settings"'                                                                                                                                      = 'Content="Varsayılan Ayarlar"'
     'Content="Security Settings"'                                                                                                                                     = 'Content="Güvenlik Ayarları"'
-    'Content="Disable All Updates"'                                                                                                                                   = 'Content="Tüm Güncellemeleri Devre Dışı Bırak"'
+    'Content="Disable All Updates"'                                                                                                                                   = 'Content="Güncellemeleri Kapat"'
     
     # Updates sekmesi - Açıklamalar
     'Default Windows Update Configuration'                                                                                                                            = 'Varsayılan Windows Güncelleme Yapılandırması'
