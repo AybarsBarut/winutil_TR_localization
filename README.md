@@ -7,7 +7,7 @@
 **Admin PowerShell'de çalıştırın:**
 
 ```powershell
-irm https://raw.githubusercontent.com/KULLANICI_ADINIZ/WinUtil-Turkish/main/windevTR.ps1 | iex
+irm https://raw.githubusercontent.com/AybarsBarut/winutil_TR_localization/main/windevTR.ps1 | iex
 ```
 
 ##  Ne Yapar?
@@ -29,7 +29,7 @@ Bu script:
 
 1. Script'i indirin:
 ```powershell
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/KULLANICI_ADINIZ/WinUtil-Turkish/main/windevTR.ps1" -OutFile "windevTR.ps1"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/AybarsBarut/WinUtil-Turkish/main/windevTR.ps1" -OutFile "windevTR.ps1"
 ```
 
 2. Çalıştırın:
