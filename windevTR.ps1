@@ -107,3 +107,4 @@ Write-Host "Türkçe WinUtil başlatılıyor..." -ForegroundColor Green
 
 # Scripti çalıştır
 Invoke-Expression $script
+#Written by Aybars
