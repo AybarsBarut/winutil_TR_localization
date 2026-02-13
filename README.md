@@ -4,7 +4,7 @@
 
 ## Hızlı Başlangıç
 
-** PowerShell'i yönetici olarak çalıştırın:**
+PowerShell'i yönetici olarak çalıştırın:
 
 ```powershell
 irm https://raw.githubusercontent.com/AybarsBarut/winutil_TR_localization/main/windevTR.ps1 | iex
