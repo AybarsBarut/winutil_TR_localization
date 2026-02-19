@@ -19,7 +19,7 @@ Bu script:
 
 ##  Çevrilen Öğeler
 
-- Ana sekmeler: **Kur**, **Ayarlamalar**, **Yapılandırma**, **Güncellemeler**
+- Ana sekmeler: **Kurulumlar**, **Ayarlamalar**, **Yapılandırmalar**, **Güncellemeler**
 - Tüm butonlar ve menü öğeleri
 - Tooltip'ler ve açıklamalar
 - Windows Güncelleme yapılandırma metinleri
